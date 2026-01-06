@@ -84,9 +84,9 @@
             {
                 Identity = new Identity(fields[0], backup),
                 Verification = fields[2],
-                FirstName = fields[5],
-                LastName = fields[6],
-                NickName = fields[7]
+                FirstName = fields[4],
+                LastName = fields[5],
+                NickName = fields[6]
             };
         }
     }
